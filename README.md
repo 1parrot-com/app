@@ -1,6 +1,6 @@
 # 1parrot.com Feedback
 
-Please report bugs or any other issue by clicking on the [⊙ Issues](/Issues) tab above.
+Please report bugs or any other issue by clicking on the [⊙ Issues](Issues) tab above.
 
 Alas, we can only respond in English; though other users may be able to respond in your native language.
 
