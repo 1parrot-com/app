@@ -1,0 +1,66 @@
+name: 🐛Bug Report
+description: File a bug report here
+title: "[BUG]: "
+labels: ["bug"]
+assignees: ["1monkey-magic"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report!!!
+  - type: checkboxes
+    id: new-bug
+    attributes:
+      label: Is there an existing issue for this?
+      description: Please search to see if an issue already exists for the bug you encountered.
+      options:
+      - label: I have searched the existing issues
+        required: true
+  - type: textarea
+    id: bug-description
+    attributes:
+      label: Description of the bug
+      description: Tell us what bug you encountered and what should have happened
+    validations:
+      required: true
+  - type: textarea
+    id: steps-to-reproduce
+    attributes:
+      label: Steps To Reproduce
+      description: Steps to reproduce the behavior.
+      placeholder: Please write the steps in a list form
+    validations:
+      required: true
+  - type: dropdown
+    id: device
+    attributes:
+      label: Which device are you using?
+      description: If this issue is occurring on more than 1 device, select the appropriate device.
+      multiple: true
+      options:
+       - Windows PC/Laptop
+       - Apple iPhone/iPad
+       - Android Phone
+       - Linux Desktop
+       - Other
+    validations:
+      required: true
+  - type: dropdown
+    id: browser
+    attributes:
+      label: Which browser are you using?
+      description: If this issue is occurring on more than 1 browser, select the appropriate browser.
+      multiple: true
+      options:
+       - Chrome
+       - Edge
+       - Safari
+       - Firefox
+       - Brave
+       - Opera
+       - Other
+    validations:
+      required: true
+      
+      
+      
