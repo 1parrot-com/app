@@ -1,4 +1,4 @@
-# 1parrot.com Feedback
+# 1parrot.com
 
 Please report bugs or any other issue by clicking on the [⊙ Issues](../../issues) tab above.
 
