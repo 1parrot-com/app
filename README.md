@@ -4,7 +4,10 @@ Please report bugs or any other issue by clicking on the [⊙ Issues](../../issu
 
 Alas, we can only respond in English.
 
-## Known Problems
+## Known Issues
+
+### Natural voices on Edge
+By default, Edge shows a limited selection of languages/voices. Tap the "Read aloud this page" button in the address bar. You should see a larger selection under "Voice Options", while it is reading aloud. Now onwards, you should see the same expanded list in 1parrot.com's language/voice selection.
 
 ### iPhone/iPad permissions issues with microphone
 You may experience permission problems on iOS devices. Make sure Siri is enabled. Using the built-in voice entry manually might enable the mic. Please let us know if you find a better workaround.
