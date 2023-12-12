@@ -8,6 +8,7 @@ Alas, we can only respond in English.
 
 ### Natural voices on Edge
 Edge may show a limited selection of languages/voices. Tap the "Read aloud this page" button in the address bar. You should see a larger selection under "Voice Options" while it is reading aloud. Now onwards you should see the same expanded list in 1parrot.com's language/voice selection.
+
 Sadly, speech support seems to have been neutered on the mobile version. Please let us know if there is a workaround.
 
 ### iPhone/iPad permissions issues with microphone
